@@ -5,4 +5,4 @@ RemoteSystemsTempFiles
 .settings
 .classpath
 .project
-bin
+removing-duplicate-from-file/bin
